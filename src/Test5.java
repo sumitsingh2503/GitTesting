@@ -8,6 +8,13 @@ public class Test5 {
 		System.out.println("code done by abhishek");
 
 		System.out.println("Change by Sumit");
+		
+		for(int i=0;i<=5;i++)
+		{
+			System.out.println(i);
+		}
+		
+		System.out.println("After For loop");
 
 	}
 
