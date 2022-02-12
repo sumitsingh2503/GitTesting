@@ -9,7 +9,16 @@ public class Test5 {
 
 		System.out.println("Change by Sumit");
 		
-		System.out.println("My code leeabhi");
+    for(int i=0;i<=5;i++)
+		{
+			System.out.println(i);
+		}
+		
+		System.out.println("After For loop");
+    
+    System.out.println("My code leeabhi");
+
+
 
 	}
 
