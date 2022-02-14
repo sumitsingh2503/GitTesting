@@ -5,6 +5,10 @@ public class Test7 {
 
 		System.out.println("This is Test7 file");
 		
+		System.out.println("haridwar");
+		System.out.println("Meerut");
+		System.out.println("Delhi");
+		
 	}
 
 }
