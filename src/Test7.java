@@ -7,6 +7,10 @@ public class Test7 {
 		System.out.println("Change by sumit");
 		System.out.println("sduigduk");
 		
+		System.out.println("haridwar");
+		System.out.println("Meerut");
+		System.out.println("Delhi");
+		
 	}
 
 }
