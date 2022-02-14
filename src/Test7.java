@@ -11,6 +11,9 @@ public class Test7 {
 		System.out.println("Meerut");
 		System.out.println("Delhi");
 		
+		System.out.println("sdckdsc");
+		System.out.println("sumuitkssk");
+		
 	}
 
 }
